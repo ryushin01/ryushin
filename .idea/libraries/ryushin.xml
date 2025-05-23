@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="ryushin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/nicekos-react-web-main.zip!/" />
+      <root url="jar://$PROJECT_DIR$/withuslaw-react-web-main.zip!/" />
+      <root url="jar://$PROJECT_DIR$/nicekos-flutter-main.zip!/" />
+      <root url="jar://$PROJECT_DIR$/코스 앱 사용설명서 Ver.1.0 (2025.05.22).zip!/" />
+      <root url="jar://$PROJECT_DIR$/새 폴더.Zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
